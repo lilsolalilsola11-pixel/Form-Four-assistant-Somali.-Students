@@ -1,0 +1,6 @@
+{
+  "name": "Form Four Assistant",
+  "description": "App-ka ugu horreeya ee ardayda Fasalka 4-aad ee Soomaaliyeed: Imtixaanno PDF, Qolalka Tartanka Tooska ah, Dashboard & Sheekada Guud.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
